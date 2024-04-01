@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KhushiBaurasi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Technical opportunities
+- 🌱 I’m currently learning more Technical skills.
+- ⚜ Graphic Designer
 - My Tech👩‍💻-
   C,C++,HTML,CSS and JavaScript
 
