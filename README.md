@@ -7,7 +7,6 @@
 C++
 Data Structures and Algorithms (DSA)
 HTML, CSS, JavaScript
-Computer Networks
 Data Analytics (Excel, PowerBI, MySQL basics)
 
 🔧 Practical Experience:
