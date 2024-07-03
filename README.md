@@ -1,5 +1,3 @@
-:
-
 👋 Hello! I'm Khushi Baurasi
 🎓 Final Year Student of Electronics and Communication Engineering at NIT Bhopal
 
