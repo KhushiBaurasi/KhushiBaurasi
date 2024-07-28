@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">💻 Technical Skills:<br><br>C++<br>Data Structures and Algorithms (DSA)<br>HTML, CSS, JavaScript<br>Data Analytics (Excel, PowerBI, MySQL basics)<br><br>🔧 Practical Experience:<br>Vocational Training Program at West Central Railways<br><br>Remote Internship with Impact Cooling Solutions (USA): Primarily worked on data entry<br><br>📚 Extracurricular Activities:<br>Design Secretary at Drishtant, the Literary Society at NIT Bhopal: This role has allowed me to develop my organizational and creative skills further.<br><br>🏆 Achievements:<br>2nd Runner-up in Airtel SheCodes Networks Competition: Won a prize of ₹80,000. This experience was incredibly enriching and has motivated me to continue striving for excellence in my field.</p>
+<p align="left">💻 Technical Skills:<br><br>C,C++<br>Data Structures and Algorithms <br>HTML, CSS, JavaScript,React js<br>Data Analytics skills- Excel, PowerBI, MySQL ,Python libraries<br><br>🔧 Practical Experience:<br>Vocational Training Program at West Central Railways<br><br>Remote Internship with Impact Cooling Solutions (USA): Primarily worked on data management in databases & excel<br><br>📚 Extracurricular Activities:<br>Head Design Secretary at Drishtant, the Literary Society at NIT Bhopal: This role has allowed me to develop my organizational and creative skills further.<br><br>🏆 Achievements:<br>2nd Runner-up in Airtel SheCodes Networks Competition: Won a prize of ₹80,000. This experience was incredibly enriching and has motivated me to continue striving for excellence in my field.</p>
 
 ###
 
