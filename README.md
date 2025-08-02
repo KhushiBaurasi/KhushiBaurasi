@@ -53,7 +53,8 @@ Head Design Secretary at Drishtant, the Literary Society at NIT Bhopal: This rol
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="40" alt="aws logo" />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
   <img width="12" />
